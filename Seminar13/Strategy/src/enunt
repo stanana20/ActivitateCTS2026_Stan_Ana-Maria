@@ -1,0 +1,10 @@
+Sustinere examen
+
+Examenul poate fi:
+- scris, la calculator
+- oral, la calculator
+- grila
+- scris
+
+Decizia este luata de student in momentul in care vine la examen.
+Sa se implementeze modulul pentru sustinere examen in momentul in care studentul intra in sala.
